@@ -1,0 +1,45 @@
+database programming : ADO.NET, Linq , SQL, PLSQL
+Development tools : Visual studio 2008, 2010.. log4NET, 
+
+
+web tech WCF, MVC, WPF
+
+?	Programming Languages:	C, C++, C#, Java, nesC Linq
+?	Database:			MySSQL Server, //Oracle
+?	Web Technologies:		ASP.NET, HTML, XML, JavaScript, CSS, JQuery ,HTML5
+?	IDE:				Visual Studio 2010, Eclipse
+
+operatign systems : linux , windows , TinyOs
+
+FxCop, Fiddler, Nunit, Moq, 
+
+exerience
+ akamai no bangalore
+
+worked as a associate network specialist
+
+odu-cs
+
+projects 
+
+1st project
+dynamic ad hoc coalition system. 3 more sentences
+
+2nd archive k-12 archive-it explorer
+
+4th project - MAC-CS layer condensed reflect in project
+
+3rd secure distributed 
+
+bold the keywords
+
+
+Education
+MS 
+graduate course
+Vis
+undergraduate courses.
+
+first research assistant
+
+remove author data strtucutres
